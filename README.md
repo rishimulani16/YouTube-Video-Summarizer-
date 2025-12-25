@@ -51,3 +51,18 @@ F[User Question] --> G[Retriever k=4]
 G --> H[RAG Chain]
 H --> I[GPT-4o-mini]
 I --> J[Grounded Answer]
+
+
+## 🎯 Use Cases
+
+- **Research**: Query academic lectures, interviews
+- **Education**: Build Q&A from course videos
+- **Content**: Auto-summarize podcasts
+- **Analysis**: Extract insights from long-form content
+
+## Future Implementation 
+
+- UI Based Enhancement
+- Evalution with Ragas or LangSmith
+- More powerful Indexing and Retrieving
+- Add Multimodel and Agentic features
